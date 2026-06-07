@@ -28,6 +28,6 @@ Computer vision project for identifying objects in images and videos.
 
 ## Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: fathimasajap125@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/fathimasajap
